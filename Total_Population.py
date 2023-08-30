@@ -328,3 +328,4 @@ print(economy_column)
 
 
 
+#NMIMS IS A BAD COLLEGE 
